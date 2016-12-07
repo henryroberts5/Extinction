@@ -1,0 +1,34 @@
+header {
+	background-color: red;
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Nova Script', cursive;
+}
+footer {
+	font-family: 'Oswald', sans-serif;
+}
+h1 {
+	background-color: lightblue;
+	font-size: 40px;
+}
+.wrap {
+	width: 100%
+}
+.left {
+	float: left;
+	border-right: 0;
+	background-color: green;
+	width: 415px;
+}
+.right {
+	float: right;
+	background-color: green;
+	width: 415px;
+	position: relative;
+	top: -463px;
+}
+.center {
+	margin: 0 auto;
+	background-color: lightblue;
+	width: 415px;
+}
